@@ -12,7 +12,6 @@ aberturas = pd.DataFrame({
     'abriu': [1, 1, 1]
 })
 
-# 3. O PULO DO GATO: Juntar as tabelas (Merge)
 # Quem não está na lista de aberturas vai ganhar "0" (não abriu)
 df_final = pd.merge(envios, aberturas, on='id_cliente', how='left').fillna(0)
 
