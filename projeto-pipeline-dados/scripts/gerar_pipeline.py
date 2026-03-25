@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Simulando as 3 bases que você citou
+# Simulando as 3 bases 
 clientes = pd.DataFrame({'id_cliente': [1, 2], 'nome': ['Joao', 'Maria']})
 interacoes = pd.DataFrame({'id_cliente': [1, 1, 2], 'campanha': ['Black Friday', 'Natal', 'Black Friday'], 'abriu_email': [1, 0, 1]})
 
