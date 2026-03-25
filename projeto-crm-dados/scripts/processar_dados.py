@@ -1,6 +1,6 @@
 import pandas as pd
 
-# 1. Simulando a criação de dados (O que o CRM exportaria)
+# 1. Simulando a criação de dados 
 dados = {
     'id_cliente': [1, 2, 3, 4],
     'nome': ['Joao', 'Maria', 'Jose', 'Ana'],
