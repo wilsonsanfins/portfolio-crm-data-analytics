@@ -1,0 +1,5 @@
+id_cliente,nome,valor_compra,dias_sem_comprar,status,segmento
+1,Joao,1200,10,Ativo,Standard
+2,Maria,300,120,Churn/Inativo,Standard
+3,Jose,4500,5,Ativo,Premium/VIP
+4,Ana,150,200,Churn/Inativo,Standard
