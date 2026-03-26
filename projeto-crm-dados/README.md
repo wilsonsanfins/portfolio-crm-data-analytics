@@ -3,8 +3,8 @@
 Este projeto automatiza a classificação de clientes de uma base de varejo.
 
 ## Ferramentas
-- Python (Pandas) para limpeza e segmentação.
-- SQL para extração de métricas de negócio.
+Python (Pandas) para limpeza e segmentação.
+SQL para extração de métricas de negócio.
 
 ## O que este projeto faz:
 Identifica clientes que não compram há mais de 90 dias .
