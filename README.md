@@ -6,7 +6,7 @@ Este repositório é fruto de pesquisas e estudos práticos sobre a aplicação 
 
 ### Segmentação de Clientes e Análise de Churn
 Localizado na pasta /projeto-crm-dados.
-Este projeto foca na automação do tratamento de bases de clientes. Desenvolvi um script que processa históricos de compra para classificar os perfis entre VIP, Ativos ou em risco de Churn. A lógica aplicada visa substituir processos manuais em planilhas, garantindo que o time de marketing tenha segmentações precisas para cada tipo de campanha.
+Este projeto foca na automação do tratamento de bases de clientes. Desenvolvi um script que processa históricos de compra para classificar os perfis entre VIP, Ativos ou em "parados". A lógica aplicada visa substituir processos manuais em planilhas, garantindo que o time de marketing tenha segmentações precisas para cada tipo de campanha.
 
 ### Performance de Campanhas e Métricas de Engajamento
 Localizado na pasta /projeto-performance-marketing.
