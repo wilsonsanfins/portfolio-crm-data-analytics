@@ -1,32 +1,23 @@
-#  Portfólio de Data Analytics & CRM
+# Portfólio de Estudos: Inteligência de Dados e CRM
 
-Este repositório contém projetos práticos focados em inteligência de CRM, automação de dados e análise de performance de marketing.
+Este repositório é fruto de pesquisas e estudos práticos sobre a aplicação de Python e SQL no cotidiano de operações de CRM. O objetivo é documentar o aprendizado na transformação de dados brutos em informações que auxiliem a tomada de decisão em marketing e vendas.
 
----
+## Projetos e Soluções Desenvolvidas
 
-##  Projetos Inclusos:
+### Segmentação de Clientes e Análise de Churn
+Localizado na pasta /projeto-crm-dados.
+Este projeto foca na automação do tratamento de bases de clientes. Desenvolvi um script que processa históricos de compra para classificar os perfis entre VIP, Ativos ou em risco de Churn. A lógica aplicada visa substituir processos manuais em planilhas, garantindo que o time de marketing tenha segmentações precisas para cada tipo de campanha.
 
-### 1. Segmentação Inteligente de Clientes (`/projeto-crm-dados`)
-* **Objetivo:** Automatizar a classificação de uma base de clientes para campanhas de retenção.
-* **Ações:** Limpeza de dados, cálculo de recência e segmentação (Ativo, Churn, VIP).
-* **Tecnologias:** Python (Pandas), Lógica de Negócio (Churn e Upsell).
+### Performance de Campanhas e Métricas de Engajamento
+Localizado na pasta /projeto-performance-marketing.
+Estruturei uma análise para mensurar o sucesso de comunicações digitais. Utilizei Python para realizar o cruzamento de dados entre tabelas de disparos e tabelas de interação (aberturas). O resultado é o cálculo real da taxa de clique (CTR), permitindo uma transição de decisões baseadas em suposições para decisões baseadas em dados de conversão.
 
-### 2. Performance de Campanhas (`/projeto-performance-marketing`)
-* **Objetivo:** Unificar dados de múltiplas fontes para medir o sucesso de comunicações.
-* **Ações:** Cruzamento de dados de envios e aberturas, cálculo de CTR (Taxa de Clique/Abertura).
-* **Tecnologias:** Python (Merge de tabelas) e Queries SQL estruturadas.
+### Pipeline Integrado para Tomada de Decisão
+Localizado na pasta /projeto-pipeline-dados.
+Este projeto demonstra o fluxo de ETL (Extração, Transformação e Carga). O foco aqui foi a integridade dos dados, unindo diferentes fontes em um dataset final limpo. Trabalhei na remoção de duplicidades e na padronização dos campos para que a base esteja pronta para ser consumida por ferramentas de BI ou plataformas de automação.
 
-### 3. Pipeline de Dados Integrado (`/projeto-pipeline-dados`)
-* **Objetivo:** Construção de dataset final para BI e CRM.
-* **Ações:** Junção (Merge) de tabelas de Clientes e Interações, limpeza de inconsistências e exportação para análise.
-* **Tecnologias:** Python (Pandas ETL) e SQL para métricas de performance.
+## Notas de Estudo e Competências
+O desenvolvimento destes projetos faz parte do meu cronograma de estudos em análise de dados. Foquei no uso da biblioteca Pandas para manipulação de dados e em SQL para a construção de queries métricas. A prioridade foi aplicar a técnica sempre vinculada a uma dor de negócio, como retenção de clientes e eficiência operacional.
 
 ---
-
-##  Habilidades Demonstradas
-* **Python:** Tratamento de dados (ETL), manipulação de bibliotecas (Pandas) e automação de planilhas.
-* **SQL:** Extração de métricas de negócio, Joins complexos e agregações.
-* **CRM:** Visão estratégica de Churn, Upsell, Retenção e Engajamento.
-
----
-**Contato:** [Wilson Sanfins Neto] - [wilsnafins@gmail.com]
+Wilson Sanfins Neto | wilsnafins@gmail.com
