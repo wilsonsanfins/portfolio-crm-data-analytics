@@ -23,10 +23,10 @@ Este repositório contém projetos práticos focados em inteligência de CRM, au
 
 ---
 
-## 🛠 Habilidades Demonstradas
+##  Habilidades Demonstradas
 * **Python:** Tratamento de dados (ETL), manipulação de bibliotecas (Pandas) e automação de planilhas.
 * **SQL:** Extração de métricas de negócio, Joins complexos e agregações.
 * **CRM:** Visão estratégica de Churn, Upsell, Retenção e Engajamento.
 
 ---
-📩 **Contato:** [Wilson Sanfins Neto] - [wilsnafins@gmail.com]
+**Contato:** [Wilson Sanfins Neto] - [wilsnafins@gmail.com]
