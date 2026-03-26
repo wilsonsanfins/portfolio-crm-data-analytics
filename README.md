@@ -1,10 +1,10 @@
-# 🚀 Portfólio de Data Analytics & CRM
+#  Portfólio de Data Analytics & CRM
 
 Este repositório contém projetos práticos focados em inteligência de CRM, automação de dados e análise de performance de marketing.
 
 ---
 
-## 📂 Projetos Inclusos:
+##  Projetos Inclusos:
 
 ### 1. Segmentação Inteligente de Clientes (`/projeto-crm-dados`)
 * **Objetivo:** Automatizar a classificação de uma base de clientes para campanhas de retenção.
